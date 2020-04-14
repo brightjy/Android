@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">day_02</string>
+    <string name="btn1_title">새 창 띄우기</string>
+    <string name="btn2_title">네이버로</string>
+    <string name="btn3_title">전화걸기</string>
+    <string name="backBtn_title">닫기</string>
+    <string name="msg">새 창을 닫습니다.</string>
+</resources>
